@@ -1,0 +1,8 @@
+file,description,source,url,licence,retrieved_utc
+fred_dcoilwtico.csv,"WTI crude oil spot price, Cushing OK, USD/bbl, daily",FRED (EIA),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILWTICO,"FRED / source terms (public data; cite FRED, Federal Reserve Bank of St. Louis)",2026-09-25 15:13
+fred_dcoilbrenteu.csv,"Brent crude oil spot price, USD/bbl, daily",FRED (EIA),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILBRENTEU,"FRED / source terms (public data; cite FRED, Federal Reserve Bank of St. Louis)",2026-09-25 15:13
+fred_ovxcls.csv,"CBOE Crude Oil Volatility Index (OVX), daily close",FRED (CBOE),https://fred.stlouisfed.org/graph/fredgraph.csv?id=OVXCLS,"FRED / source terms (public data; cite FRED, Federal Reserve Bank of St. Louis)",2026-09-25 15:13
+fred_vixcls.csv,"CBOE Volatility Index (VIX), daily close",FRED (CBOE),https://fred.stlouisfed.org/graph/fredgraph.csv?id=VIXCLS,"FRED / source terms (public data; cite FRED, Federal Reserve Bank of St. Louis)",2026-09-25 15:13
+fred_dtwexbgs.csv,"Nominal broad U.S. dollar index, daily",FRED (Federal Reserve Board),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DTWEXBGS,"FRED / source terms (public data; cite FRED, Federal Reserve Bank of St. Louis)",2026-09-25 15:13
+eia_wcestus1.xls,"Weekly U.S. ending stocks of crude oil excl. SPR, thousand barrels (sheet 'Data 1')",U.S. Energy Information Administration,https://www.eia.gov/dnav/pet/hist_xls/WCESTUS1w.xls,"U.S. government data, public domain (cite EIA)",2026-09-25 15:09
+gpr_daily.xls,"Daily Geopolitical Risk Index (Caldara & Iacoviello, 2022, AER)",matteoiacoviello.com/gpr.htm,https://www.matteoiacoviello.com/gpr_files/data_gpr_daily_recent.xls,CC BY (credit the authors and the website),2026-09-25 15:09
